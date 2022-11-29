@@ -28,6 +28,8 @@ public class binary_search {
         int numbers[]={2,3,5,6,7,12,13};
         int key=7;
         System.out.println("The key is at index of: "+bin_search(numbers, key));
+        System.out.println("heloo");
+    
     }
     
 }
